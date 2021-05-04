@@ -1,0 +1,59 @@
+BgdB | dgdB | dgdB | (g/f/e/d/) (dg) dBBg | aA A/A/A A2 :|
+g | (b/a/)(g/f/) (gd) egac' | bgdB | dgBd | (c/B/)(A/A/) (dc) | A/A/A (ag) f2(ed) |
+(b/a/g/f/) (gd) e3g | (dg).B.g (eolo).g | afdB | cAGE D2D |]
+
+X:321
+T: Rothemurches Rant
+R: strathspey
+M: C
+L: 1/8
+K: D
+   A | F>EF<D (FA)A2 | (dA)(BA) (dA)(Bd) | F>EF<D (FA)(Ad) | B>dA>d FEE :|
+|: a | f2(e>f) e>fe>B | d>e(fd) e/d/c/B/ dA | BBb>a f2(ed) | BdAd FEE :|
+|: a | f<aa>b a>baf | f<bb>c' b>c'ba | (fa)(ef) .defd | (dba)f (fe)e :|
+|: a | f2(ed) (ef)b2 | a>ff>e (dB)(Bd) | .A.B.d.e (gf)(ed) | B>dA>d | FEE :|
+
+X:322
+T: Lady Hamilton Dalyrumple's Strathspey
+R: strathspey
+M: C
+L: 1/8
+K: Am
+g |\
+c<AA>G (EA)(A>c) | BGdG eGBd | c<AA>G EAA>B | Tc>Bcd e>aa>b |
+c'>a b>^g a>e =g>d | (f/e/).d/.c/ gc B>GB>d | c>AA>G E>AA>B | (c/B/).c/.d/ (e/d/).c/.B/ (cAA) |]
+c |\
+(Aa)Ta2 eaca | G<ge>g d<gBG | A>aag e^gac' | ((3bc'b) ((3ab^g) a>ga>b |
+c'>ab>e (ag/)f/ gc | fdeA ^G>eE>d | c<AA>G (E>A)(A>B) | (c/B/).c/.d/ (e/d/).c/.B/ cAA |]
+
+X:331
+T: Jenny Dang the Weaver
+R: reel
+M: C
+L: 1/8
+K: D
+e |\
+aAAB (AF)A2 | ABde faef | dBBd (BA)B2 | (AB).d.e (gf)(ef) :|
+defd efge | defd e2(dB) | (de).f.d (ef).g.e | aA A/A/A gfef |
+(de).f.d (ef).g.e | (de).f.a (ea).c.A | defd efge | (ab).a.g (fg).e.f |]
+
+X:332
+T: Haddington Assembly
+R: jig
+M: 6/8
+L: 1/8
+K: G
+dBG G2B | dB G2d | ecA ABA | fef g3 |\
+dBG G2B | AFD D2c | BdB cAF | G3 G2 :|
+g |\
+g2a bge | f2g afd | ege dBG | F2G AFD |\
+g2a bge | f2g afd | ege faf | g3- g2 ||
+.G |\
+g2a bge | f2g afd | ege dBG | ABG FED |\
+GBG AcA | BdB c2e | dcB AGF | G3  G2 |]
+
+X:333
+T: Through the Wood of Favie
+R: reel
+M: C
+L: 1/8

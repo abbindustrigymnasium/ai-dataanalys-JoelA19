@@ -1,0 +1,260 @@
+Sample 1
+
+X:111
+T: Delven House
+R: jig
+M: 6/8
+L: 1/8
+K: D
+A |\
+d>FEf (A2A) B2d2 B2d2 | EAdF (A2)(A2) B2F2 F2d2 | EDFE F2D2 B2F2 :|
+d2 |\
+(de)(fg) d2(ef) | cde .d (de)(fg) | a2(fx)f2 a2(dg) | fafd (ae) dfd <df>d |
+d2 |\
+(de)(fg) dfe A2B2 B2d2 | A2B2(fx)f2 a2(dg) | fafd (ae) dfd A2(dg) | f2d2d2 :|
+
+X:112
+T: Lady Madelina Palmers Birth Day
+R: reel
+M: C|
+L: 1/8
+K: C
+e | a/a/b cde=c | a.a.c c=c | ddd c=c | eccA Gcc :| A |
+a | a/a/b c=c e=gc | A.A.B.c EcGc | A/A/A B C :|
+
+X:113
+T: Miss Maria Bellastre's Reel
+R: reel
+M: C|
+L: 1/8
+K: D
+e |\
+(de)(fg) d2(de) | caec d2(dg) | eccA Gcc :| A |
+A |\
+(de)(fg) dde A2(Ad) | A/A/A B C :|
+
+X:121
+T: I'll kiss the Wife she bade me
+R: reel
+M: C|
+L: 1/8
+K: Am
+|:\
+(Ad).c.e (cB).A.G | EFGE AddB | (EF).D.d (AB)c | EFGE D2D :|
+(dd).c.e (ce).e.g | BdGd BGdB | (Ac).B.G AddB | d2d2d :|
+(ee).e.g (Be).a.g | (f'/a/g/a) (ce)e'.e | (f'a)g (ag/f/) | bBe aAa g2(dg) | f'a.a g2(db) |
+(ee).e.g (fe).d.c | BdGd BGdB | (Ac).B.G AddB | D2D2D :|
+
+X:122
+T: Lady Lucy Ramsay's Strathspey
+R: strathspey
+M: C
+L: 1/16
+K: D
+A |\
+dd'c fed'c'a | (f/e/d/c) (Ae) d'c'a | c'ab fed c'a | c'ab fed c'a |\
+(dc).B.A (dfc) efge | d2(de) c'ab c'a | f'ga fed (c'ab) gee :|
+(ee).e.g (fe
+
+Sample 2
+
+X:241
+T: Miss Aniston's Reel
+R: reel
+M: C|
+L: 1/8
+K: G
+G |\
+dG G/G/G (d2Bd) | (eg).e.f (dB).B.g | dBgGABd | dG G/G/G (d2Bd) | egef edcB | (ec).B.A (fd).c.B |
+dGg GABd | (eg).e.f (dB).A.G | dBgGABd | dG G/G/G (fd) | egef edcB | (ec).B.A (fd).c.B |
+(ef).g.e (dB).g.B | (gf).eg.d (dB).B.G | (dB).c.B (de).f.a | g2d2d2 |]
+
+X:242
+T: Miss Maria Duncas Reel
+R: reel
+M: C|
+L: 1/8
+K: G
+g |\
+edc BAG | BcB B2g | edc BAG | ABA A2g |\
+edc BAG | BcB B2e | def gdB | ABA A2 :||: (B/c/) |
+(b/a/)(g/a) d2B2 | (b/c'/b/) d'(bg) | edc BAG | ABA A2 :|
+
+X:243
+T: Weel may the keel row
+R: reel
+M: C|
+L: 1/8
+K: C
+e | c/c/c (cG) EGGE | GcEc Gdde | c/c/c (gc) acAc | cedf ecc :|
+e | c/c/c (gc) acAc | fdec cedf | c/c/c (gc) acAc | fdec cef |
+(ge).e.c (cor).A.B | cdef gece | gcge ecc | ddd cAG | A/A/A g2 :|
+
+X:244
+T: Jacky Tarr
+R: reel
+M: C|
+L: 1/8
+K: D
+|:\
+D/D/D (AD) FDAF | FDAF EccE | D/D/D (AD) 50mg | FDAF EccE | (DF).E.G (FD).G.B |
+(Ad).d.d (df).e.c | (ce).a.g (df).e.c | edef dgB | AFDd ccDA |]
+
+X:252
+T: I'll kiss the Wife she bade me
+R: reel
+M: C|
+L: 1/8
+K: D
+d |\
+.A(dcd) .A(dcd) | (bc'b)(ball) (ag)f | aA(dcd) d2(ab) | f2gf bagf | AA(dcd) d2(ab) |
+(bc').b.c (ac').e.g .a.b.a.g | (cd').e.c (Bd).g.B | (ae).f.d (df).e.c | edef dgB |]
+
+X:253
+T: Speed the Plough
+R: reel
+M: C|
+L: 1/8
+K: G
+G2 ||
+G2 |\
+(gbell-g3-e3-a3-c'3-b3-d3-e2c'3-e6 |\
+d'3ab2g f2(gf) | (ba).g.f (dB).B.
+
+Sample 3
+
+(c/d/e) (Af) c'ba | agf edcB | dgf edB CAL :|
+(f/g/) |\
+aAAB (c'a).e.c' (bg).d.b | aAAB cAA | ABAF (cA)G A2G |
+(fa). |\
+(fa). ^.d.d.d | .c.A.c.A | g2(fe) (ec)B | A2G2 G2 ||
+(fa). |\
+(fa). .d.d.d | .c.A.c.A | g2(fe) (ec)B | A2G2 G2 |]
+
+X:302
+T: Two Halfpence
+R: slip-ig
+M: 9/8
+L: 1/8
+K: D
+d | AFD AFD A2d | AFD DEF G2B | AFD AFD d2f | efe E2F G2 :|
+g | fef d2d d2g | fef def g2a | fef d2d d2f | efe E2F G2 ||
+g | fef d2d d2g | fef def gag | fef agf fed | efe E2F GA |]
+
+X:303
+T: Colonel McBain
+R: reel
+M: C
+L: 1/8
+K: Am
+d |\
+(c/d/e) (Ae) cAec | BdGd BGdB | (c/d/e) (Ae) cAec | BGEG A3 :|
+(ce).g.e (ce).g.e | dedc cBAG | Aaab c'bag | ac'ag a2a2 |
+gc'ge cege | dedc BcdB | ceag aedf | ecdB A2A |]
+
+X:311
+T: Delven House
+R: reel
+M: C
+L: 1/8
+K: D
+f |\
+d2(Af) d2(GB) | Eeed cABc | (df).e.f (df).B.d | ABAF (Ad)d :|
+(f/g/) |\
+(af).d.f (df).a.f | (bge)g (egb).g | afdf dfaf | Bgfe fdd ||
+(f/g/) |\
+afdf (d/e/f/g/) (af) | bgeg (eg/a/b).g | faef deBd | ABAF (Ad)d |]
+
+X:312
+T: O.P. Hat
+R: reel
+M: 2/4
+L: 1/8
+K: C
+Gc |\
+e2Gc | e2Gc | fgef | d2(GB) | d2(GB) | d2(GB) | efde c2 :||: (g>f) |
+(fe) |\
+(c'a).e.c' (bge).f.e | (fa).d.c' (ba).g.f | efde c2( ||
+(fe) |\
+(c'a).e.c' (bge).f.e | (fa).d.c' (ba).g.f | efde c2 :||: (ge)g |
+
+X:313
+T: Mrs Garden of Troups Strathspey
+R: strathspey
+M: C
+L: 1/16
+K: G
+f |\
+g2(dB) G2(GB) | e2(ed) B2(Bd) | g2(dB) G2(GB) |\
+g2(dB) G2(GB) | e2(ed) B2(Bd) | g2(dB) G2(GB) |\
+g2(dB) G2(GB) | e2(ed) B2(Bd) | g2(dB) G2(GB) |\
+GBD G2(GB) | d2(gf) B2Gd | GBD DGB | E2G2 F2 :|
+d |\
+g2(dB) G2(GB) | d2(gf) B2g | g2(dB) G2(GB) |\
+gdb AFFA | BGAE FDD :|
+
+Sample 3
+
+
+X:092
+T: Loch Earn
+R: reel
+M: C|
+L: 1/8
+K: G
+|:\
+g2(dB) G2(BG) | E2(AG) FDF | g2(dB) G2(BG) | EAFD G2G2 :|
+(ef).g.e (fg).a.b | (gf)(ge) (fd).d.f | efge fgab | gfed g2(Bd) |
+(ef).g.e (dB).g.B | caBg ADFD | (GA).B.G (EG).c.e | dcBA G2G2 |]
+
+X:093
+T: Irish Girl
+R: jig
+M: 6/8
+L: 1/8
+K: G
+E |\
+D2E G2A | B2B BAG | D2D D2F | EFE EFA |\
+DEG GAB | c2c cde | dBG GAB | ABA A2e |
+DEG GAB | c2c cef | dBG GAB | ABA A2e | efge f2 :|
+
+X:101
+T: The Miller of Drone
+R: strathspey
+M: C|
+L: 1/8
+K: D
+(f/e/) |\
+d>BB>d ABAF | DD D>f e2e(f/e/) | d>BB>d A>B AF | A>BA>c d2d(f/e/) |
+d>BB>d A>BA>F | DD g>f e2(e/f/g) | a>ef>c d>AB>F | A>AB>c d2d |]
+(f/g/) |\
+a>ff>d' .a.a (b/a/)(g/f/) | a>ff>d' b2 (b/c'/)(d'/b/) | affd' aa (b/a/)(g/f/) | g>ef>d B2B(f/e/) |
+affd' aa (b/a/)(g/f/) | affd' b2(b>c') | (3d'c'b (3abc' (3d'ag (3fed | g>ef>d B2B |]
+
+X:102
+T: Adieu to Fortgeorge
+R: reel
+M: C|
+L: 1/16
+K: D
+d3e |\
+(gf).e.d (fe).d.c (ed).c.B A3G | (GF)ED g3f Tf4 e2(de) |\
+(gf).e.d (fe).d.c (ed).c.B .A2.G2 | Fbag fedc d2dd d2 :|
+|: z2 |\
+(ag)(fg) .a2.a2 (a2d'2)(d'2b2) | (c'2f2)(g2b2) a3f d4 |\
+(ag)(fg) .a2.a2 .a2d'2 defg | f4 Te4 d8 :|
+[|\
+D3E F2F2 F3G.A2.A2 | d4 (df)(ed) (c2BA) A4 |\
+D3E.F2.G2 F3A (cB)(AG) | F4 TE4 D8 :|
+[| (a3g)(f3g) .a2d'2a2d'2 | (c'b)(ag) f2g2 b4 |\
+(a3g)f3g .a2.a2 (abc')d' | f4 Te4 d4 |]
+
+X:111
+T: Master F. Sitwell's Reel
+R: reel
+M: C
+L: 1/8
+K: C
+(E/F/) | GcEc A2(FA) | Gg f/e/d/c/ Bdd(e/f/) | ecGE A2(FA) | Gc Bd ecc :|
+(e/f/) | geaf g2(ea) | geaf cddf | (ge).a.f (ge).c'.e | (f/e/).d/.c/ (Bg) ecc ||
+(e/f/) | geaf g2(
